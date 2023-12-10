@@ -1,0 +1,16 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "C:/Users/Anurag/AppData/Roaming/Code/User/workspaceStorage/eb09b204a709af1a520db93856e0ec2a/redhat.java/jdt_ws/Java Project_f2fbe24e/bin/lib/jfreechart-1.0.19-experimental.jar",
+        "C:/Users/Anurag/AppData/Roaming/Code/User/workspaceStorage/eb09b204a709af1a520db93856e0ec2a/redhat.java/jdt_ws/Java Project_f2fbe24e/bin/lib/jfreechart-1.0.19-swt.jar",
+        "C:/Users/Anurag/AppData/Roaming/Code/User/workspaceStorage/eb09b204a709af1a520db93856e0ec2a/redhat.java/jdt_ws/Java Project_f2fbe24e/bin/lib/jfreechart-1.0.19.jar",
+        "C:\\Users\\Anurag\\.m2\\repository\\org\\jfree\\jcommon\\1.0.24\\jcommon-1.0.24.jar",
+        "C:\\Users\\Anurag\\Downloads\\jcommon-1.0.8\\jcommon-1.0.8\\jcommon-1.0.8.jar",
+        "C:\\Users\\Anurag\\Downloads\\jcommon-1.0.8\\jcommon-1.0.8\\jcommon-xml-1.0.8.jar",
+        "C:\\Users\\Anurag\\AppData\\Roaming\\Code\\User\\workspaceStorage\\eb09b204a709af1a520db93856e0ec2a\\redhat.java\\jdt_ws\\Java Project_f2fbe24e\\bin\\lib\\jcommon-1.0.23.jar"
+        
+    ],
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
